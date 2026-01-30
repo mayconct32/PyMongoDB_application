@@ -21,10 +21,11 @@ PyMongo é uma distribuição Python que contém ferramentas para trabalhar com 
 maneira recomendada de trabalhar com o MongoDB a partir do Python. <a href="https://www.mongodb.com/pt-br/docs/languages/python/pymongo-driver/current/">https://www.mongodb.com/pt-br/docs/languages/python/pymongo-driver/current/</a>
 <br><br>
 
-## visualizar MongoDB com interface grafica:
-<br>
+## Visualize o MongoDB com uma interface gráfica(GUI):
+
 - MongoDB Compass
-![]("./images/mongo_compass.png")
+<br><br>
+<img src="./images/mongo_compass.png">
 <br><br>
 ## Como executar o aplicativo:
 
