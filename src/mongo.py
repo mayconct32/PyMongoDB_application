@@ -220,11 +220,13 @@ class MongoDBRepository:
         response = await collection.delete_many(filter)
         return response.deleted_count
 
-async def main():
-    ...
+
+def main():
+    # error and exception handling
+    # execute methods of the MongoDBRepository
+    pass
+
 
 if __name__ == "__main__":
-    import asyncio
-
-    asyncio.run(main())
+    main()
 

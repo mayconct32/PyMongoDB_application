@@ -45,22 +45,6 @@ docker run -d --name mongo_lhama
 mongo:4.2
 ```
 <br>
-- criar .env na raiz do projeto:
-
-```
-touch .env 
-```
-<br>
-- adicionar as variáveis ​​de ambiente no arquivo .env:
-
-```
-HOST = "127.0.0.1",
-PORT = "27017",
-USERNAME = "admin",
-PASSWORD = "password",
-DB_NAME = "db_name"
-```
-<br>
 - instalar poetry:
 
 ```
